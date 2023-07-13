@@ -33,7 +33,7 @@
 		<text name="bc_owner" text="Propriétaire :" />
 		
 		<!-- npc details box -->
-		<text name="SC_widhei" text="Largeur/hauteur max. :" />
+		<text name="SC_widhei" text="Largeur/longueur max. :" />
 		<text name="SC_worktim" text="Temps estimé :" />
 		<text name="SC_price" text="Prix :" />
 		<text name="SC_profpmin" text="Profit/min :" />
